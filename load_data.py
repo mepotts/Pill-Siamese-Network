@@ -15,6 +15,8 @@ image_path = '/Users/matthewpotts/Downloads/dc'
 
 df = pd.read_csv("/Users/matthewpotts/Downloads/groundTruthTable.csv")
 
+folder_names = df.ref_images.unique()
+
 for i in range(len(folder_names)):
     folder_nm = 'p' + str(i)
     path = os.path.join(train_path, folder_nm)
