@@ -9,7 +9,7 @@ import os
 import shutil
 import pandas as pd
 
-train_path = '/Users/matthewpotts/Pills-with-Siamese-Networks/data/pills/training'
+train_path = '/Users/matthewpotts/Google Drive/UCBerkeley/w210/Project Files/Pills'
 
 image_path = '/Users/matthewpotts/Downloads/dc'
 
