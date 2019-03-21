@@ -9,8 +9,8 @@
 
 ## Data
 
-The data for this project comes from the [NIH Pill Image Recognition Challenge](https://pir.nlm.nih.gov/challenge/)
+The data for this project comes from the [NIH Pill Image Recognition Challenge](https://pir.nlm.nih.gov/challenge/).
 
 ## Pill Image Detection
 
-For a 
+For a detailed description of the training process see the [Pill-Detection Repo]().
