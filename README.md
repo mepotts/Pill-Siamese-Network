@@ -17,3 +17,6 @@ For a detailed description of the training process see the [Pill-Detection Repo]
 
 ## Siamese Network
 
+The siamese network is two CNNs that share weights, learning the same features. 
+
+![alt text](https://cdn-images-1.medium.com/max/1200/1*XzVUiq-3lYFtZEW3XfmKqg.jpeg)
