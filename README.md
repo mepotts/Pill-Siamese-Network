@@ -19,4 +19,6 @@ For a detailed description of the training process see the [Pill-Detection Repo]
 
 The siamese network is two CNNs that share weights, learning the same features. 
 
-![alt text](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/siamese-network.png)
+![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/siamese-network.png)
+
+The input is pairs of pills. ![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/pill-pairings.png)
