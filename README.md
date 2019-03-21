@@ -21,4 +21,11 @@ The siamese network is two CNNs that share weights, learning the same features.
 
 ![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/siamese-network.png)
 
-The input is pairs of pills. ![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/pill-pairings.png)
+The input is pairs of pills. 
+
+![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/pill-pairings.png)
+
+The output is a dissimilarity score where the higher the more dissimilar the pills are. 
+
+![](https://raw.githubusercontent.com/mepotts/Pill-Siamese-Network/master/network-output.png)
+
