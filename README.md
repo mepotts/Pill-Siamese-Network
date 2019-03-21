@@ -13,7 +13,7 @@ The data for this project comes from the [NIH Pill Image Recognition Challenge](
 
 ## Pill Image Detection
 
-For a detailed description of the training process see the [Pill-Detection Repo]().
+For a detailed description of the training process see the [Pill-Detection Repo](https://github.com/mepotts/Pill-Detection).
 
 ## Siamese Network
 
