@@ -1,5 +1,8 @@
 # Pill Similarity with Siamese Networks in Pytorch
 
+## Demo
+git pull and run Pill Demo notebook.
+
 ## Business Case
 **Problem Statement:** Incorrect drug ingestion causes both harm to individual and is costly to the healthcare system.
 
