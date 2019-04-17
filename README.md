@@ -2,8 +2,7 @@
 
 ## Demo
 1. ```git clone``` and run Pill Demo notebook. File paths need changing.
-
-2. pill object detection can be found [here](https://github.com/mepotts/Pill-Detection/blob/master/pill-detect-demo.mp4).
+2. Pill object detection video can be downloaded [here](https://github.com/mepotts/Pill-Detection/blob/master/pill-detect-demo.mp4).
 3. Download the current trained pill detection tensorflow graph .pb file [here](https://drive.google.com/file/d/1oyGktaQAoORLmCiX712Uy3RukjTI8_ws/view?usp=sharing)
 
 ## Business Case
