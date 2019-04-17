@@ -3,6 +3,8 @@
 ## Demo
 git pull and run Pill Demo notebook.
 
+pill object detection can be found [here](https://github.com/mepotts/Pill-Detection/blob/master/pill-detect-demo.mp4).
+
 ## Business Case
 **Problem Statement:** Incorrect drug ingestion causes both harm to individual and is costly to the healthcare system.
 
