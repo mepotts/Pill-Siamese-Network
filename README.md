@@ -1,9 +1,10 @@
 # Pill Similarity with Siamese Networks in Pytorch
 
 ## Demo
-git pull and run Pill Demo notebook.
+1. ```git clone``` and run Pill Demo notebook. File paths need changing.
 
-pill object detection can be found [here](https://github.com/mepotts/Pill-Detection/blob/master/pill-detect-demo.mp4).
+2. pill object detection can be found [here](https://github.com/mepotts/Pill-Detection/blob/master/pill-detect-demo.mp4).
+3. Download the current trained pill detection tensorflow graph .pb file [here](https://drive.google.com/file/d/1oyGktaQAoORLmCiX712Uy3RukjTI8_ws/view?usp=sharing)
 
 ## Business Case
 **Problem Statement:** Incorrect drug ingestion causes both harm to individual and is costly to the healthcare system.
